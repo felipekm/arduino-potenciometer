@@ -13,3 +13,4 @@ A POC build for the Arduino UNO using [Johnny Five JS](https://github.com/rwaldr
 - 1 Color LED;
 
 ## Basic Diagram (missing the led part)
+![image](https://user-images.githubusercontent.com/205932/27257502-83e1f694-53af-11e7-86cc-be89775a6004.png)
